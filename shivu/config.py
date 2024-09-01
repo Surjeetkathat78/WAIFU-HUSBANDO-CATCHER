@@ -7,7 +7,7 @@ class Config(object):
     sudo_users = "7089408502","6135328276"
     GROUP_ID = -1001529779762
     TOKEN = "7458352911:AAFEog08d7AOzd6gVKnc-bNBXQHWiv99Sl0"
-    mongo_url = "mongodb+srv://GOKU:MISSBHOPALI@goku.pzzsl8d.mongodb.net/?retryWrites=true&w=majority"
+    mongo_url = "mongodb+srv://Bikash:Bikash@bikash.yl2nhcy.mongodb.net/?retryWrites=true&w=majority"
     PHOTO_URL =["https://telegra.ph/file/44abc724240ff3cfc2d84.jpg"]
     SUPPORT_CHAT = "ZTX_MAIN_CHATS"
     UPDATE_CHAT = "ZTX_ORG"
